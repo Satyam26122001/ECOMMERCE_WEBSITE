@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forever (Modern E-Commerce Web Application with ReactJS and Bootstrap)
 A dynamic and highly optimized e-commerce web application built with HTML5, CSS3, JavaScript, ReactJS, React Router, Bootstrap, and Framer Motion. This fully responsive project focuses on delivering an exceptional user experience with seamless navigation, smooth animations, and high accessibility. The application allows users to browse products, view detailed information, manage a shopping cart, and more, all within a clean and adaptive interface optimized for performance and SEO across various devices and screen sizes.
 
@@ -38,3 +39,6 @@ If you want to download and run this project locally, follow these steps:
 - Clone the Repository: Navigate to your project folder.
 - Install Dependencies: Run <b>npm install</b> in the terminal.
 - Start the Project: Run <b>npm run dev</b> in the terminal to start the development server.
+=======
+# ECOMMERCE_WEBSITE
+>>>>>>> 73ca40b0972c549b06d0d228cb5a3417cea17241
